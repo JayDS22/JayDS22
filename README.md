@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JayDS22
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Analytics, Machine Learning and I
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Data Science
+- 💞️ I’m looking to collaborate on Machine Learning
 - 📫 How to reach me : guwalanijj@gmail.com
 
 <!---
