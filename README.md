@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ML and Data Science
 - 👾 I’m looking to collaborate on Deep Learning
 - 📫 How to reach me : guwalanijj@gmail.com
-# Check out my more about my work  - [Portfolio](https://jayds22.github.io/Portfolio/)
+# Check out more about my work  - [Portfolio](https://jayds22.github.io/Portfolio/)
 
 <p>
   <em>
