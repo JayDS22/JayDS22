@@ -1,7 +1,7 @@
 - 🥷🏻 Hi, I’m Jay Guwalani  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>
 - 👀 I’m interested in Analytics, Machine Learning and Deep Learning
-- 🌱 I’m currently learning ML and Data Science
-- 👾 I’m looking to collaborate on Deep Learning
+- 🌱 I’m currently learning ML and NLP
+- 👾 I’m looking to collaborate on Deep Learning & NLP
 - 📫 How to reach me : guwalanijj@gmail.com
 # Check out more about my work  - [Portfolio](https://jayds22.github.io/Portfolio/)
 
