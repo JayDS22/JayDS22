@@ -32,45 +32,30 @@
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" title="C"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" title="typescript"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" title="flask"></code>
+<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" title="sklearn"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="opencv"></code>
+<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" title="mongodb"></code>
 <code><img height="40" src="https://res.cloudinary.com/practicaldev/image/fetch/s--ipV6F4tM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/serverless/assets/master/Icon/Framework/PNG/Serverless_Framework-icon01.png" title="serverless"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="mysql"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="anaconda"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" title="express.js"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="git"></code>
-<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="opencv"></code>
-
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/aws-lambda-1.svg" title="aws-lambda"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/aws-rds.svg" title="aws-rds"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/aws-logo.svg" title="aws-logo"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/aws-api-gateway.svg" title="aws-api-gateway"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/aws-ec2.svg" title="aws-ec2"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/aws-dynamodb.svg" title="aws-dynamodb"></code>
-
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" title="sklearn"></code>
+<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" title="aws-2"></code>
+<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" title="power-bi"></code>
+<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" title="tableau-software"></code>
+<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/google-data-studio.svg" title="google-data-studio"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-original.svg" title="salesforce"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" title="heroku"></code>
-
-<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" title="sqlalchemy"></code>
-<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="git"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="linux"></code>
 
-### GitHub Stats
 
-<p align="center">
-  <a href = "https://github.com/JayDS22">
-<img src="https://github-readme-stats.vercel.app/api?username=JayDS22&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=true">
-  </a>
- </p>
- 
-### Top Languages
-
-<p align="center">
-<a href = "https://github.com/JayDS22">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayDS22&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&card_width=400">
-</a>
-</p>
 
 <!---
 JayDS22/JayDS22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
