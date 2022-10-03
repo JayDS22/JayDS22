@@ -54,7 +54,7 @@
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="git"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="linux"></code>
-
+<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/postman.svg" title="postman"></code>
 
 
 <!---
