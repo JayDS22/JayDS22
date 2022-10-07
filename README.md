@@ -11,15 +11,9 @@
 
 - 🥷🏻 Hi, I’m Jay Guwalani  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>
 - 👀 I’m interested in Analytics, Machine Learning and Deep Learning
-- 🌱 I’m currently learning ML and NLP
+- 🌱 I’m currently learning Natural Language Processing
 - 👾 I’m looking to collaborate on Deep Learning & NLP
 - 📫 How to reach me : guwalanijj@gmail.com
-# Check out more about my work  - [Portfolio](https://jayds22.github.io/Portfolio/)
-
-
-
-
-
 
 
 
@@ -56,6 +50,7 @@
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="linux"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/postman.svg" title="postman"></code>
 
+### Check out more about my work  - [Portfolio](https://jayds22.github.io/Portfolio/)
 
 ### Find me here <br><br>
 <a href="https://www.linkedin.com/in/jay-guwalani-66763b191/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
