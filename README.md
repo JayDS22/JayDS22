@@ -57,6 +57,11 @@
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/postman.svg" title="postman"></code>
 
 
+### Find me here <br><br>
+<a href="https://www.linkedin.com/in/jay-guwalani-66763b191/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:guwalanijj@gmail.com" target="_blank"><img alt="Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+
 <!---
 JayDS22/JayDS22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
