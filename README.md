@@ -7,7 +7,7 @@
 <img align="right" alt="Coder GIF" height=190 width=290 src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 
-**About Me**
+### About Me
 
 - 🥷🏻 Hi, I’m Jay Guwalani  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>
 - 👀 I’m interested in Analytics, Machine Learning and Deep Learning
@@ -16,8 +16,7 @@
 - 📫 How to reach me : guwalanijj@gmail.com
 
 
-
-**Worked with** 
+### Worked with
 
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="python"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="rstudio"></code>
@@ -50,8 +49,8 @@
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="linux"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/postman.svg" title="postman"></code>
 
-**Check out more about my work  - [Portfolio]**(https://jayds22.github.io/Portfolio/)
-**Find me here** <br><br>
+### Check out more about my work  - [Portfolio](https://jayds22.github.io/Portfolio/)
+### Find me here <br><br>
 <a href="https://www.linkedin.com/in/jay-guwalani-66763b191/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:guwalanijj@gmail.com" target="_blank"><img alt="Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
