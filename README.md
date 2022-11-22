@@ -48,7 +48,7 @@
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="linux"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/postman.svg" title="postman"></code>
-
+<!--
 ### Top Languages
 
 <p align="center">
@@ -56,7 +56,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayds22&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&card_width=400">
 </a>
 </p>
-
+-->
 ### Check out more about my work  - [Portfolio](https://jayds22.github.io/Portfolio/)
 ### Find me here <br><br>
 <a href="https://www.linkedin.com/in/jay-guwalani-66763b191/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
