@@ -9,11 +9,11 @@
 
 ### About Me
 
-- 🥷🏻 Hi, I’m Jay Guwalani  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>
-- 👀 I’m interested in Analytics, Machine Learning and Deep Learning
+- 🥷🏻 Hi, I’m Jay Guwalani. <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>
+- 👀 I’m interested in Analytics, Architecture Building, Data Engineering, Machine Learning, and Deep Learning
 - 🌱 I’m currently learning Natural Language Processing
 - 👾 I’m looking to collaborate on Deep Learning & NLP
-- 📫 How to reach me : guwalanijj@gmail.com
+- 📫 How to reach me: guwalanijj@gmail.com
 
 
 ### Worked with
