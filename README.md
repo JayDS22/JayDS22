@@ -36,7 +36,6 @@
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/aws-rds.svg" title="aws-rds"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/aws-logo.svg" title="aws-logo"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/aws-api-gateway.svg" title="aws-api-gateway"></code>
-<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/aws-ec2.svg" title="aws-ec2"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/aws-dynamodb.svg" title="aws-dynamodb"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" title="aws-2"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" title="power-bi"></code>
