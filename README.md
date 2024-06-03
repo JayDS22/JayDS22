@@ -1,6 +1,6 @@
 <p>
   <em>
-    A <b> Data Science & Machine Learning Professional </b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> and a passionate self-taught <b>programmer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> from Pune, India.
+    A <b> Data Science & Machine Learning Professional </b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> and a passionate self-taught <b>programmer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> from Bengaluru, India.
   </em>
  </p>
 
@@ -57,7 +57,8 @@
 </a>
 </p>
 -->
-### Check out more about my work  - [Portfolio](https://jayds22.github.io/Portfolio/)
+### Check out more about my work  - [Portfolio](https://jayds22.github.io/Portfolio/) 
+### Check out my blogs on Medium - [Medium Blogs](https://medium.com/@guwalanijj)
 ### Find me here <br><br>
 <a href="https://www.linkedin.com/in/jay-guwalani-66763b191/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:guwalanijj@gmail.com" target="_blank"><img alt="Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
