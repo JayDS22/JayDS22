@@ -57,7 +57,7 @@
 </p>
 -->
 ### Check out more about my work  - [Portfolio](https://jayds22.github.io/Portfolio/) 
-### Check out my blogs on Medium - [Medium Blogs](https://medium.com/@guwalanijj)
+### Check out my blogs on Medium - [Blogs](https://medium.com/@guwalanijj)
 ### Find me here <br><br>
 <a href="https://www.linkedin.com/in/jay-guwalani-66763b191/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:guwalanijj@gmail.com" target="_blank"><img alt="Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
