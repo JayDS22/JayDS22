@@ -50,10 +50,11 @@
 |:---:|:---:|:---:|:---:|
 
 
-
+<!--
   <a href="https://github.com/jayds22" class="rich-diff-level-one">
     <img src="https://github-readme-stats.vercel.app/api?username=jayds22&title_color=333&text_color=777&show_icons=true" alt="Jay Guwalani's GitHub Stats" >
   </a>
+-->
   
 <br><br>
   <a href="https://badges.pufler.dev">
