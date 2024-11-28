@@ -20,7 +20,7 @@
 ## 🚀 Expertise
 
 * Data Science & Machine Learning [Python| R | Matlab | Octave | SQL | MongoDB | DAX]
-* Data Engineering, DevOps and MLOps [AWS Cloud | Sagemaker | Jenkins | CI/CD | DVC | ML Flow | Databricks | EC2 | AWS SAM | Github]
+* Data Engineering, DevOps and MLOps [AWS Cloud | DBT | Sagemaker | Jenkins | CI/CD | DVC | ML Flow | Databricks | Snowflake | EC2 | AWS SAM | Github]
 * Agile Development [Jira | Asana | Confluence | Scrum]
 
 
