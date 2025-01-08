@@ -1,20 +1,5 @@
-<p>
-  <em>
-    A <b> Data Science & Machine Learning Professional </b> and a passionate self-taught <b>programmer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> .
-  </em>
- </p>
-
-<!--
-<img align="right" alt="Coder GIF" height=190 width=290 src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
--->
-
-## About Me
-
-- 🥷🏻 Hi, I’m Jay Guwalani. <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>
-- 👀 I’m interested in Analytics, Architecture Building, Data Engineering, Machine Learning, and Deep Learning
-- 🌱 I’m currently learning Natural Language Processing
-- 👾 I’m looking to collaborate on Deep Learning & NLP
-- 📫 How to reach me: guwalanijj@gmail.com
+## Hi there, I'm Jay Guwalani 👋
+I'm a Data Scientist | ML Engineer | AI Enthusiast. Thriving on building data-driven solutions, optimizing architectures, and experimenting with cutting-edge AI & ML technologies—always exploring the next big thing!
 
 
 ## 🚀 Expertise
