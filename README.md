@@ -189,24 +189,6 @@ graph LR
 
 </div>
 
-## 🎵 Currently Vibing To
-
-<div align="center">
-
-[![Spotify](https://novatorem-jayds22.vercel.app/api/spotify)](https://open.spotify.com/user/jayds22)
-
-</div>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=jayds22&label=Profile%20views&color=0e75b6&style=flat" alt="jayds22" />
-<img src="https://badges.pufler.dev/years/jayds22?style=flat-square&color=blue&logo=github" alt="Years Badge"/>
-<img src="https://badges.pufler.dev/repos/jayds22?style=flat-square&color=blue&logo=github" alt="Repos Badge"/>
-<img src="https://badges.pufler.dev/commits/monthly/jayds22?style=flat-square&color=blue&logo=github" alt="Commits Badge"/>
-
-</div>
-
-<div align="center">
 
 ### Show some ❤️ by starring some of my repositories!
 
