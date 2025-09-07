@@ -8,12 +8,12 @@
 
 I'm an **AI Architect | Senior AI/ML Engineer | Data Scientist**. Specializing in building scalable AI systems, processing billions of records with sub-second latency, and architecting enterprise-grade generative AI solutions—always pushing the boundaries of what's possible with AI & Big Data!
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ## 🚀 Expertise
 
 * **Generative AI & LLMs** [OpenAI GPT-4 | Claude Sonnet | Hugging Face Transformers | LangChain | LangGraph | RAG Architecture | Multi-Agent Conversational AI | Prompt Engineering | Vector Databases]
-* **Big Data & Distributed Computing** [Apache Spark | PySpark | Apache Kafka | AWS Kinesis | Databricks | 24B+ Records Processing | Real-time Streaming | Delta Lake | Apache Hudi | High-frequency Data Pipelines]
+* **Big Data & Distributed Computing** [Apache Spark | PySpark | Apache Kafka | AWS Kinesis | Databricks | PetaBytes Processing | Real-time Streaming | Delta Lake | Apache Hudi | High-frequency Data Pipelines]
 * **Data Science & Machine Learning** [Python | R | Matlab | Octave | SQL | MongoDB | DAX | TensorFlow | PyTorch | Scikit-learn | Statistical Modeling | Survival Analysis | Ensemble Methods | Computer Vision | NLP]
 * **Data Engineering & MLOps** [AWS Cloud | Apache Airflow | DBT | SageMaker | MLflow | Jenkins | CI/CD | DVC | Databricks | Snowflake | EC2 | AWS SAM | Github Actions | Docker | Kubernetes]
 * **Cloud Architecture & Infrastructure** [AWS (Lambda, S3, EC2, SageMaker, Kinesis, Athena, Redshift, Bedrock) | Azure (Databricks, Functions, Kubernetes) | GCP | Serverless | Microservices | Real-time Analytics]
@@ -30,9 +30,7 @@ I'm an **AI Architect | Senior AI/ML Engineer | Data Scientist**. Specializing i
 
 ## 🛠️ Technologies & Tools
 
-<details>
-<summary><b>🤖 Generative AI & LLM Frameworks</b></summary>
-<br>
+### 🤖 **Generative AI & LLM Frameworks**
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black)
@@ -42,11 +40,7 @@ I'm an **AI Architect | Senior AI/ML Engineer | Data Scientist**. Specializing i
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Transformers](https://img.shields.io/badge/🤗%20Transformers-FFD21E?style=for-the-badge&logoColor=black)
 
-</details>
-
-<details>
-<summary><b>📊 Big Data & Streaming Technologies</b></summary>
-<br>
+### 📊 **Big Data & Streaming Technologies**
 
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
@@ -56,11 +50,7 @@ I'm an **AI Architect | Senior AI/ML Engineer | Data Scientist**. Specializing i
 ![Delta Lake](https://img.shields.io/badge/Delta%20Lake-00ADD4?style=for-the-badge&logoColor=white)
 ![Apache Hudi](https://img.shields.io/badge/Apache%20Hudi-FF6B35?style=for-the-badge&logoColor=white)
 
-</details>
-
-<details>
-<summary><b>☁️ Cloud & Infrastructure</b></summary>
-<br>
+### ☁️ **Cloud & Infrastructure**
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -70,12 +60,9 @@ I'm an **AI Architect | Senior AI/ML Engineer | Data Scientist**. Specializing i
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-</details>
+### 💻 **Programming Languages & Frameworks**
 
-<details>
-<summary><b>💻 Programming Languages</b></summary>
-<br>
-
+**Core Languages:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -92,22 +79,14 @@ I'm an **AI Architect | Senior AI/ML Engineer | Data Scientist**. Specializing i
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 
-</details>
-
-<details>
-<summary><b>📈 Data Visualization & Analytics</b></summary>
-<br>
+### 📈 **Data Visualization & Analytics**
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
-</details>
-
-<details>
-<summary><b>🛠️ Development Tools & Platforms</b></summary>
-<br>
+### 🛠️ **Development Tools & Platforms**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -115,8 +94,6 @@ I'm an **AI Architect | Senior AI/ML Engineer | Data Scientist**. Specializing i
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</details>
 
 ## 🎯 Recent Highlights
 
@@ -175,7 +152,6 @@ graph LR
 </div>
 
 
-
 ## 📫 Connect with me
 
 <div align="center">
@@ -189,6 +165,8 @@ graph LR
 
 </div>
 
+
+<div align="center">
 
 ### Show some ❤️ by starring some of my repositories!
 
