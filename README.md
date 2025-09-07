@@ -77,12 +77,20 @@ I'm an **AI Architect | Senior AI/ML Engineer | Data Scientist**. Specializing i
 <br>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+**Frameworks & Libraries:**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 
 </details>
 
@@ -168,7 +176,6 @@ graph LR
 
 
 
-
 ## 📫 Connect with me
 
 <div align="center">
@@ -180,7 +187,26 @@ graph LR
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@guwalanijj)
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://jayds22.github.io/Portfolio/)
 
+</div>
 
+## 🎵 Currently Vibing To
+
+<div align="center">
+
+[![Spotify](https://novatorem-jayds22.vercel.app/api/spotify)](https://open.spotify.com/user/jayds22)
+
+</div>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=jayds22&label=Profile%20views&color=0e75b6&style=flat" alt="jayds22" />
+<img src="https://badges.pufler.dev/years/jayds22?style=flat-square&color=blue&logo=github" alt="Years Badge"/>
+<img src="https://badges.pufler.dev/repos/jayds22?style=flat-square&color=blue&logo=github" alt="Repos Badge"/>
+<img src="https://badges.pufler.dev/commits/monthly/jayds22?style=flat-square&color=blue&logo=github" alt="Commits Badge"/>
+
+</div>
+
+<div align="center">
 
 ### Show some ❤️ by starring some of my repositories!
 
