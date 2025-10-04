@@ -273,6 +273,14 @@ graph TB
 
 ---
 
+## 🔥 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jayds22&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
 <div align="center">
 
 
