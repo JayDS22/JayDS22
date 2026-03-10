@@ -1,4 +1,4 @@
-## Jay Guwalani | Senior AI Engineer/Architect & Full Stack Data Scientist
+## Jay Guwalani | AI Engineer/Architect & Full Stack Data Scientist
 
 <div align="center">
 
@@ -6,7 +6,7 @@
 
 </div>
 
-**Senior AI Engineer/Architect & Full Stack Data Scientist** specializing in enterprise-scale distributed systems, real-time machine learning, and production generative AI architectures. Proven track record of designing fault-tolerant systems processing **24+ billion records** with **sub-200ms latency**, delivering measurable business impact including **$122.9M+ in cost savings** through ML-driven optimization.
+**AI Engineer/Architect & Full Stack Data Scientist** specializing in enterprise-scale distributed systems, real-time machine learning, and production generative AI architectures. Proven track record of designing fault-tolerant systems processing **24+ billion records** with **sub-200ms latency**, delivering measurable business impact including **$122.9M+ in cost savings** through ML-driven optimization.
 
 <div align="right">
 <img alt="System Architecture" width="350" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
