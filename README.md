@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Senior+AI+Engineer%2FArchitect;Full+Stack+Data+Scientist;Enterprise+ML+Systems+%26+Analytics;Distributed+Computing+%26+MLOps;24B%2B+Records+%7C+Sub-200ms+Latency;Real-time+ML+%26+Generative+AI&font=Fira%20Code&center=true&width=550&height=50&duration=4000&pause=1000&color=58A6FF)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer%2FArchitect;Full+Stack+Data+Scientist;Enterprise+ML+Systems+%26+Analytics;Distributed+Computing+%26+MLOps;24B%2B+Records+%7C+Sub-200ms+Latency;Real-time+ML+%26+Generative+AI&font=Fira%20Code&center=true&width=550&height=50&duration=4000&pause=1000&color=58A6FF)
 
 </div>
 
