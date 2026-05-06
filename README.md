@@ -139,10 +139,9 @@ Bayesian Inference (Stan/PyMC) · MCMC · Hierarchical Models · Causal Inferenc
 
 </div>
 
-- 🏆 **Best Performer FY 2023-24** — Bridgestone Group, recognized for enterprise AI delivery
-- ⚖️ **Hackathon Judge & Mentor** — HackMIT, UCLA LA Hacks
-- 🎤 **Invited Speaker** — ML conferences & technical advisory boards
-- 📚 **3 Research Publications** — IEEE, IJAET & viXra in predictive maintenance & ML
+- **Best Performer FY 2023-24** — Bridgestone Group, recognized for enterprise AI delivery
+- **Hackathon Judge & Mentor** — HackMIT, UCLA LA Hacks
+- **3 Research Publications** — IEEE, IJAET & viXra in predictive maintenance & ML
 
 ### Publications
 
