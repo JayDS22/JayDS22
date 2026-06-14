@@ -19,10 +19,17 @@ I build enterprise-scale distributed systems, real-time inference pipelines, and
 
 ---
 
+### Currently
+
+**[GSoC 2026 Contributor](https://github.com/accordproject/apap)** — Hardening the [Accord Project Agreement Protocol](https://github.com/accordproject/apap) MCP server under the [Linux Foundation](https://www.linuxfoundation.org/). Building the typed service layer, alternatives evaluation (MCP vs OpenAI function-calling vs LangGraph), and the 2026-07-28 spec migration. Mentors: Niall Roche, Dan Selman. [Project roadmap →](https://github.com/accordproject/apap/blob/main/docs/gsoc-2026-roadmap.md)
+
+---
+
 ### Featured Projects
 
 | Domain | Project | Highlights |
 |--------|---------|------------|
+| Open Source / GSoC '26 | [Accord Project APAP/MCP](https://github.com/accordproject/apap) | Hardening the MCP server: typed errors, alternatives evaluation, 2026-07-28 spec migration. [POC](https://github.com/JayDS22/apap-mcp-poc) · [Roadmap](https://github.com/accordproject/apap/blob/main/docs/gsoc-2026-roadmap.md) |
 | GenAI / LLM | [Production LLM Serving Framework](https://github.com/JayDS22/Production-LLM-Serving-Optimization-Framework) | vLLM continuous batching, **12.3K req/sec**, 42ms P50, INT4 quantization, 70% memory savings |
 | Multi-Agent AI | [ConstellationAI Multi-Agentic RAG](https://github.com/JayDS22/ConstellationAI-Multi-Agentic-RAG) | LangGraph orchestration, semantic caching, real-time token optimization, GPU monitoring |
 | Data Engineering | [Enterprise Data Warehouse](https://github.com/JayDS22/Enterprise-Data-Warehouse) | **24B records**, <60s latency, 100K records/sec, 32 fact tables, 128 dimensions |
@@ -133,12 +140,14 @@ Bayesian Inference (Stan/PyMC) · MCMC · Hierarchical Models · Causal Inferenc
 
 <div align="center">
 
+![GSoC 2026](https://img.shields.io/badge/🌟%20GSoC%202026-Accord%20Project%20%2F%20Linux%20Foundation-orange?style=for-the-badge)
 ![Best Performer](https://img.shields.io/badge/🏆%20Best%20Performer%20FY%202023--24-Bridgestone%20Group-gold?style=for-the-badge)
 ![Hackathon Judge](https://img.shields.io/badge/⚖️%20Hackathon%20Judge-HackMIT%20%7C%20UCLA%20LA%20Hacks-blue?style=for-the-badge)
 ![Research](https://img.shields.io/badge/📚%20Publications-IEEE%20%7C%20IJAET%20%7C%20viXra-green?style=for-the-badge)
 
 </div>
 
+- **Google Summer of Code 2026** — Selected contributor for Accord Project (Linux Foundation), Idea #4: Hardening the APAP / MCP Server
 - **Best Performer FY 2023-24** — Bridgestone Group, recognized for enterprise AI delivery
 - **Hackathon Judge & Mentor** — HackMIT, UCLA LA Hacks
 - **3 Research Publications** — IEEE, IJAET & viXra in predictive maintenance & ML
