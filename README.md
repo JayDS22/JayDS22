@@ -147,7 +147,7 @@ Bayesian Inference (Stan/PyMC) · MCMC · Hierarchical Models · Causal Inferenc
 
 </div>
 
-- **Google Summer of Code 2026** — Selected contributor for Accord Project (Linux Foundation), Idea #4: Hardening the APAP / MCP Server
+- **Google Summer of Code 2026** — Selected contributor for Accord Project (The Linux Foundation), Idea #4: Hardening the APAP / MCP Server
 - **Best Performer FY 2023-24** — Bridgestone Group, recognized for enterprise AI delivery
 - **Hackathon Judge & Mentor** — HackMIT, UCLA LA Hacks
 - **3 Research Publications** — IEEE, IJAET & viXra in predictive maintenance & ML
