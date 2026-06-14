@@ -21,7 +21,7 @@ I build enterprise-scale distributed systems, real-time inference pipelines, and
 
 ### Currently
 
-**[GSoC 2026 Contributor](https://github.com/accordproject/apap)** — Hardening the [Accord Project Agreement Protocol](https://github.com/accordproject/apap) MCP server under the [Linux Foundation](https://www.linuxfoundation.org/). Building the typed service layer, alternatives evaluation (MCP vs OpenAI function-calling vs LangGraph), and the 2026-07-28 spec migration. Mentors: Niall Roche, Dan Selman. [Project roadmap →](https://github.com/accordproject/apap/blob/main/docs/gsoc-2026-roadmap.md)
+**[GSoC 2026 Contributor](https://github.com/accordproject/apap)** — Hardening the [Accord Project Agreement Protocol](https://github.com/accordproject/apap) MCP server under the [The Linux Foundation](https://www.linuxfoundation.org/). Building the typed service layer, alternatives evaluation (MCP vs OpenAI function-calling vs LangGraph), and the 2026-07-28 spec migration. Mentors: Niall Roche, Dan Selman. [Project roadmap →](https://github.com/accordproject/apap/blob/main/docs/gsoc-2026-roadmap.md)
 
 ---
 
