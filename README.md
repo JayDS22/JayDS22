@@ -21,6 +21,12 @@ I build enterprise-scale distributed systems, real-time inference pipelines, and
 
 ### Currently
 
+**Graduate Research Assistant, University of Maryland** — Sep 2026–present
+HPC I/O research for [Open OnDemand](https://openondemand.org/) under **Dr. Alan Sussman**, in collaboration with the [Ohio Supercomputer Center](https://www.osc.edu/) and [Princeton Plasma Physics Lab (PPPL)](https://www.pppl.gov/).
+
+**Software Engineer (ML) Intern, AWS Redshift ML Team** — Summer 2026 (completed)
+Shipped a native vector search prototype into Redshift's query engine (500K–50M vectors, sub-100ms) and Bedrock ML integrations that cut LLM time-to-production from weeks to days. Won the org-wide **Amazon AUTA AI Hackathon** among 800+ Amazon interns for a multi-model cost-aware router (3.2x cheaper inference). [Case study →](https://jayds22.github.io/Portfolio/post/chapter-11/)
+
 **[GSoC 2026 Contributor](https://github.com/accordproject/apap)** — Hardening the [Accord Project Agreement Protocol](https://github.com/accordproject/apap) MCP server under the [The Linux Foundation](https://www.linuxfoundation.org/). Building the typed service layer, alternatives evaluation (MCP vs OpenAI function-calling vs LangGraph), and the 2026-07-28 spec migration. Mentors: Niall Roche, Dan Selman. [Project roadmap →](https://github.com/accordproject/apap/blob/main/docs/gsoc-2026-roadmap.md)
 
 ---
@@ -29,6 +35,7 @@ I build enterprise-scale distributed systems, real-time inference pipelines, and
 
 | Domain | Project | Highlights |
 |--------|---------|------------|
+| AWS / Redshift ML | [AWS Redshift Vector Search + Bedrock ML](https://jayds22.github.io/Portfolio/post/chapter-11/) | Native semantic search in Redshift query engine (500K–50M vectors, sub-100ms); Bedrock ML integrations cut LLM time-to-production weeks→days. **Amazon AUTA Hackathon Winner** (org-wide, 800+ interns, 3.2x cost reduction). |
 | Open Source / GSoC '26 | [Accord Project APAP/MCP](https://github.com/accordproject/apap) | Hardening the MCP server: typed errors, alternatives evaluation, 2026-07-28 spec migration. [POC](https://github.com/JayDS22/apap-mcp-poc) · [Roadmap](https://github.com/accordproject/apap/blob/main/docs/gsoc-2026-roadmap.md) |
 | GenAI / LLM | [Production LLM Serving Framework](https://github.com/JayDS22/Production-LLM-Serving-Optimization-Framework) | vLLM continuous batching, **12.3K req/sec**, 42ms P50, INT4 quantization, 70% memory savings |
 | Multi-Agent AI | [ConstellationAI Multi-Agentic RAG](https://github.com/JayDS22/ConstellationAI-Multi-Agentic-RAG) | LangGraph orchestration, semantic caching, real-time token optimization, GPU monitoring |
@@ -129,7 +136,7 @@ Bayesian Inference (Stan/PyMC) · MCMC · Hierarchical Models · Causal Inferenc
 <tr>
 <td align="center"><strong>99%+</strong><br>system uptime</td>
 <td align="center"><strong>74.4%</strong><br>infra cost reduction</td>
-<td align="center"><strong>3</strong><br>research publications</td>
+<td align="center"><strong>2 IEEE + 1 IJAET</strong><br>peer-reviewed publications</td>
 <td align="center"><strong>130+</strong><br>professionals mentored</td>
 </tr>
 </table>
@@ -147,16 +154,17 @@ Bayesian Inference (Stan/PyMC) · MCMC · Hierarchical Models · Causal Inferenc
 
 </div>
 
+- **Amazon AUTA AI Hackathon Winner — Summer 2026** — org-wide top winner among 800+ Amazon interns for a multi-model cost-aware router (3.2x cost reduction on production inference)
 - **Google Summer of Code 2026** — Selected contributor for Accord Project (The Linux Foundation), Idea #4: Hardening the APAP / MCP Server
 - **Best Performer FY 2023-24** — Bridgestone Group, recognized for enterprise AI delivery
 - **Hackathon Judge & Mentor** — HackMIT, UCLA LA Hacks
-- **3 Research Publications** — IEEE, IJAET & viXra in predictive maintenance & ML
+- **Peer-Reviewed Publications** — 2 IEEE papers and 1 IJAET journal on ML for predictive maintenance and supply chain optimization; viXra preprint on automotive telematics
 
 ### Publications
 
-- **Predictive Maintenance in Automotive Telematics using Machine Learning** — [viXra:2511.0028](https://vixra.org/pdf/2511.0028v1.pdf)
-  ML models (K-NN, Random Forest, SVM) for truck load classification via CAN bus telematics; 95.97% accuracy
-- **IEEE & IJAET** — Predictive maintenance algorithms with 64.53% accuracy improvement across 300K+ vehicles
+- **Predictive Maintenance in Automotive using Machine Learning** — IEEE Digital Xplore Library (Accepted, September 2024; ISSN 2169-3536; Manuscript Access-2024-36520). LSTM + SHAP interpretability on high-frequency CAN bus telematics; distributed training on Apache Spark, deployed on AWS Lambda for real-time failure prediction.
+- **Optimizing Supply Chain Management Through Data Science and AI: A Data-Driven Approach** — IJAET, Vol. 5 No. 4 (December 2023; ISSN 2633-4828). Hybrid descriptive + prescriptive analytics framework for supply chain optimization; predictive lead time, inventory turnover, and demand variability forecasting.
+- **Predictive Maintenance in Automotive Telematics using Machine Learning** — [viXra:2511.0028](https://vixra.org/pdf/2511.0028v1.pdf) (preprint). K-NN, Random Forest, SVM for truck load classification via CAN bus telematics; 95.97% accuracy.
 
 ---
 
