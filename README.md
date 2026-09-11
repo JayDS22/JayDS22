@@ -10,9 +10,9 @@ I build enterprise-scale distributed systems, real-time inference pipelines, and
 
 <div align="center">
 
-[![AWS](https://img.shields.io/badge/AWS%20Redshift%20ML-Software%20Engineer%20(ML)%20Intern%20%7C%20Summer%202026-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)](https://jayds22.github.io/Portfolio/post/chapter-11/)
-[![GSoC](https://img.shields.io/badge/Google%20Summer%20of%20Code%202026-Accord%20Project-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://summerofcode.withgoogle.com/programs/2026)
-[![Linux Foundation](https://img.shields.io/badge/The%20Linux%20Foundation-Accord%20Project-000000?style=for-the-badge&logo=linuxfoundation&logoColor=white)](https://www.linuxfoundation.org/)
+[![AWS](https://img.shields.io/badge/AWS%20Redshift%20ML-SE%20(ML)%20Intern%20%7C%20Summer%202026-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=232F3E)](https://jayds22.github.io/Portfolio/post/chapter-11/)
+[![GSoC](https://img.shields.io/badge/Google%20Summer%20of%20Code%202026-Accord%20Project-34A853?style=for-the-badge&logo=google&logoColor=white&labelColor=4285F4)](https://summerofcode.withgoogle.com/programs/2026)
+[![Linux Foundation](https://img.shields.io/badge/The%20Linux%20Foundation-Accord%20Project-0094FF?style=for-the-badge&logo=linuxfoundation&logoColor=white&labelColor=003366)](https://www.linuxfoundation.org/)
 
 </div>
 
