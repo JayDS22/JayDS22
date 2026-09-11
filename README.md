@@ -10,21 +10,11 @@ I build enterprise-scale distributed systems, real-time inference pipelines, and
 
 
 <div align="center">
-  <a href="https://jayds22.github.io/Portfolio/post/chapter-11/" title="AWS Redshift ML Intern - Summer 2026">
-    <img src="https://raw.githubusercontent.com/JayDS22/Portfolio/main/images/aws-logo.svg" height="32" alt="AWS"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://summerofcode.withgoogle.com/programs/2026" title="Google Summer of Code 2026">
-    <img src="https://cdn.simpleicons.org/google/4285F4" height="28" alt="Google Summer of Code"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linuxfoundation.org/" title="The Linux Foundation">
-    <img src="https://cdn.simpleicons.org/linuxfoundation/003366" height="28" alt="The Linux Foundation"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://openondemand.org/" title="Open OnDemand (UMD / OSC / PPPL research)">
-    <img src="https://raw.githubusercontent.com/JayDS22/Portfolio/main/images/OpenOnDemand-Logo.jpeg" height="28" alt="Open OnDemand"/>
-  </a>
+
+[![AWS](https://img.shields.io/badge/AWS%20Redshift%20ML-SE%20(ML)%20Intern%20%7C%20Summer%202026-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=232F3E)](https://jayds22.github.io/Portfolio/post/chapter-11/)
+[![GSoC](https://img.shields.io/badge/Google%20Summer%20of%20Code%202026-Accord%20Project-34A853?style=for-the-badge&logo=google&logoColor=white&labelColor=4285F4)](https://summerofcode.withgoogle.com/programs/2026)
+[![Linux Foundation](https://img.shields.io/badge/The%20Linux%20Foundation-Accord%20Project-0094FF?style=for-the-badge&logo=linuxfoundation&logoColor=white&labelColor=003366)](https://www.linuxfoundation.org/)
+
 </div>
 
 <div align="center">
