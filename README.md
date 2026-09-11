@@ -13,7 +13,7 @@ I build enterprise-scale distributed systems, real-time inference pipelines, and
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jay-guwalani-66763b191/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=About.me&logoColor=white)](https://jayds22.github.io/Portfolio/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jguwalan@umd.edu)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://medium.com/@guwalanijj)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@guwalanijj)
 
 </div>
 
@@ -21,13 +21,13 @@ I build enterprise-scale distributed systems, real-time inference pipelines, and
 
 ### Currently
 
-**Graduate Research Assistant, University of Maryland** — Sep 2026–present
+**Graduate Research Assistant, University of Maryland** - Sep 2026-present
 HPC I/O research for [Open OnDemand](https://openondemand.org/) under **Dr. Alan Sussman**, in collaboration with the [Ohio Supercomputer Center](https://www.osc.edu/) and [Princeton Plasma Physics Lab (PPPL)](https://www.pppl.gov/).
 
-**Software Engineer (ML) Intern, AWS Redshift ML Team** — Summer 2026 (completed)
-Shipped a native vector search prototype into Redshift's query engine (500K–50M vectors, sub-100ms) and Bedrock ML integrations that cut LLM time-to-production from weeks to days. Won the org-wide **Amazon AUTA AI Hackathon** among 800+ Amazon interns for a multi-model cost-aware router (3.2x cheaper inference). [Case study →](https://jayds22.github.io/Portfolio/post/chapter-11/)
+**Software Engineer (ML) Intern, AWS Redshift ML Team** - Summer 2026 (completed)
+Shipped a native vector search prototype into Redshift's query engine (500K-50M vectors, sub-100ms) and Bedrock ML integrations that cut LLM time-to-production from weeks to days. Won the org-wide **Amazon AUTA AI Hackathon** among 800+ Amazon interns for a multi-model cost-aware router (3.2x cheaper inference). [Case study →](https://jayds22.github.io/Portfolio/post/chapter-11/)
 
-**[GSoC 2026 Contributor](https://github.com/accordproject/apap)** — Hardening the [Accord Project Agreement Protocol](https://github.com/accordproject/apap) MCP server under the [The Linux Foundation](https://www.linuxfoundation.org/). Building the typed service layer, alternatives evaluation (MCP vs OpenAI function-calling vs LangGraph), and the 2026-07-28 spec migration. Mentors: Niall Roche, Dan Selman. [Project roadmap →](https://github.com/accordproject/apap/blob/main/docs/gsoc-2026-roadmap.md)
+**[GSoC 2026 Contributor](https://github.com/accordproject/apap)** - Hardening the [Accord Project Agreement Protocol](https://github.com/accordproject/apap) MCP server under the [The Linux Foundation](https://www.linuxfoundation.org/). Building the typed service layer, alternatives evaluation (MCP vs OpenAI function-calling vs LangGraph), and the 2026-07-28 spec migration. Mentors: Niall Roche, Dan Selman. [Project roadmap →](https://github.com/accordproject/apap/blob/main/docs/gsoc-2026-roadmap.md)
 
 ---
 
@@ -35,7 +35,7 @@ Shipped a native vector search prototype into Redshift's query engine (500K–50
 
 | Domain | Project | Highlights |
 |--------|---------|------------|
-| AWS / Redshift ML | [AWS Redshift Vector Search + Bedrock ML](https://jayds22.github.io/Portfolio/post/chapter-11/) | Native semantic search in Redshift query engine (500K–50M vectors, sub-100ms); Bedrock ML integrations cut LLM time-to-production weeks→days. **Amazon AUTA Hackathon Winner** (org-wide, 800+ interns, 3.2x cost reduction). |
+| AWS / Redshift ML | [AWS Redshift Vector Search + Bedrock ML](https://jayds22.github.io/Portfolio/post/chapter-11/) | Native semantic search in Redshift query engine (500K-50M vectors, sub-100ms); Bedrock ML integrations cut LLM time-to-production weeks→days. **Amazon AUTA Hackathon Winner** (org-wide, 800+ interns, 3.2x cost reduction). |
 | Open Source / GSoC '26 | [Accord Project APAP/MCP](https://github.com/accordproject/apap) | Hardening the MCP server: typed errors, alternatives evaluation, 2026-07-28 spec migration. [POC](https://github.com/JayDS22/apap-mcp-poc) · [Roadmap](https://github.com/accordproject/apap/blob/main/docs/gsoc-2026-roadmap.md) |
 | GenAI / LLM | [Production LLM Serving Framework](https://github.com/JayDS22/Production-LLM-Serving-Optimization-Framework) | vLLM continuous batching, **12.3K req/sec**, 42ms P50, INT4 quantization, 70% memory savings |
 | Multi-Agent AI | [ConstellationAI Multi-Agentic RAG](https://github.com/JayDS22/ConstellationAI-Multi-Agentic-RAG) | LangGraph orchestration, semantic caching, real-time token optimization, GPU monitoring |
@@ -56,7 +56,7 @@ Shipped a native vector search prototype into Redshift's query engine (500K–50
 **Languages** · Python · Java · Scala · SQL · TypeScript · JavaScript · C++ · Go · R
 
 <details>
-<summary><strong>ML & AI</strong> — PyTorch · TensorFlow · Scikit-Learn · HuggingFace · LangChain · and more</summary>
+<summary><strong>ML & AI</strong> - PyTorch · TensorFlow · Scikit-Learn · HuggingFace · LangChain · and more</summary>
 <br>
 
 PyTorch · TensorFlow · Scikit-Learn · XGBoost · LightGBM · HuggingFace Transformers · LangChain · LangGraph · OpenAI · Anthropic Claude · MLflow · Weights & Biases · Optuna · Ray Tune · ONNX · TensorRT · vLLM · NVIDIA NeMo · Stan · PyMC
@@ -64,7 +64,7 @@ PyTorch · TensorFlow · Scikit-Learn · XGBoost · LightGBM · HuggingFace Tran
 </details>
 
 <details>
-<summary><strong>Backend & APIs</strong> — FastAPI · Flask · Spring Boot · Node.js · and more</summary>
+<summary><strong>Backend & APIs</strong> - FastAPI · Flask · Spring Boot · Node.js · and more</summary>
 <br>
 
 FastAPI · Flask · Django · Spring Boot · Node.js · Express · REST · gRPC · GraphQL · WebSockets · Celery · RabbitMQ · API Gateway
@@ -72,7 +72,7 @@ FastAPI · Flask · Django · Spring Boot · Node.js · Express · REST · gRPC 
 </details>
 
 <details>
-<summary><strong>Data & Distributed Systems</strong> — Spark · Kafka · Airflow · Snowflake · and more</summary>
+<summary><strong>Data & Distributed Systems</strong> - Spark · Kafka · Airflow · Snowflake · and more</summary>
 <br>
 
 Apache Spark · Apache Kafka · Apache Airflow · Prefect · Apache Flink · Delta Lake · Apache Hudi · Databricks · Snowflake · dbt · Apache Hive · Presto/Trino
@@ -80,7 +80,7 @@ Apache Spark · Apache Kafka · Apache Airflow · Prefect · Apache Flink · Del
 </details>
 
 <details>
-<summary><strong>Databases & Storage</strong> — PostgreSQL · MongoDB · Redis · Neo4j · and more</summary>
+<summary><strong>Databases & Storage</strong> - PostgreSQL · MongoDB · Redis · Neo4j · and more</summary>
 <br>
 
 PostgreSQL · MySQL · MongoDB · Redis · Elasticsearch · Apache Cassandra · Neo4j · ClickHouse · DynamoDB · Redshift · BigQuery · Pinecone · ChromaDB · S3 · HDFS
@@ -88,7 +88,7 @@ PostgreSQL · MySQL · MongoDB · Redis · Elasticsearch · Apache Cassandra · 
 </details>
 
 <details>
-<summary><strong>Cloud & Infrastructure</strong> — AWS · Azure · GCP · Kubernetes · Terraform · and more</summary>
+<summary><strong>Cloud & Infrastructure</strong> - AWS · Azure · GCP · Kubernetes · Terraform · and more</summary>
 <br>
 
 **AWS**: SageMaker · Bedrock · Lambda · Step Functions · EKS · ECR · EventBridge · Glue · Kinesis · Redshift · S3 · CloudFormation · CDK
@@ -99,7 +99,7 @@ PostgreSQL · MySQL · MongoDB · Redis · Elasticsearch · Apache Cassandra · 
 </details>
 
 <details>
-<summary><strong>DevOps & Monitoring</strong> — GitHub Actions · Jenkins · Prometheus · Grafana · and more</summary>
+<summary><strong>DevOps & Monitoring</strong> - GitHub Actions · Jenkins · Prometheus · Grafana · and more</summary>
 <br>
 
 GitHub Actions · Jenkins · ArgoCD · GitOps · Prometheus · Grafana · ELK Stack · Datadog · CloudWatch · PagerDuty · SonarQube · Trivy · CI/CD pipeline design
@@ -107,7 +107,7 @@ GitHub Actions · Jenkins · ArgoCD · GitOps · Prometheus · Grafana · ELK St
 </details>
 
 <details>
-<summary><strong>Analytics & Visualization</strong> — Tableau · Power BI · Plotly · Streamlit · and more</summary>
+<summary><strong>Analytics & Visualization</strong> - Tableau · Power BI · Plotly · Streamlit · and more</summary>
 <br>
 
 Tableau · Power BI · Apache Superset · Looker · Plotly · Streamlit · Jupyter · Matplotlib · Seaborn · D3.js
@@ -115,7 +115,7 @@ Tableau · Power BI · Apache Superset · Looker · Plotly · Streamlit · Jupyt
 </details>
 
 <details>
-<summary><strong>Statistical Methods</strong> — Bayesian Inference · Causal Inference · Survival Analysis · and more</summary>
+<summary><strong>Statistical Methods</strong> - Bayesian Inference · Causal Inference · Survival Analysis · and more</summary>
 <br>
 
 Bayesian Inference (Stan/PyMC) · MCMC · Hierarchical Models · Causal Inference · Propensity Score Matching · Difference-in-Differences · Instrumental Variables · Survival Analysis (Cox/Kaplan-Meier) · Time Series (ARIMA/GARCH/State-Space) · A/B Testing · Multi-Armed Bandits · Sequential Testing · Power Analysis
@@ -147,24 +147,25 @@ Bayesian Inference (Stan/PyMC) · MCMC · Hierarchical Models · Causal Inferenc
 
 <div align="center">
 
-![GSoC 2026](https://img.shields.io/badge/🌟%20GSoC%202026-Accord%20Project%20%2F%20Linux%20Foundation-orange?style=for-the-badge)
-![Best Performer](https://img.shields.io/badge/🏆%20Best%20Performer%20FY%202023--24-Bridgestone%20Group-gold?style=for-the-badge)
-![Hackathon Judge](https://img.shields.io/badge/⚖️%20Hackathon%20Judge-HackMIT%20%7C%20UCLA%20LA%20Hacks-blue?style=for-the-badge)
-![Research](https://img.shields.io/badge/📚%20Publications-IEEE%20%7C%20IJAET%20%7C%20viXra-green?style=for-the-badge)
+![AUTA Winner](https://img.shields.io/badge/AUTA%20AI%20Hackathon-Amazon%20Winner%20%7C%20Summer%202026-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![GSoC 2026](https://img.shields.io/badge/GSoC%202026-Accord%20Project%20%2F%20Linux%20Foundation-orange?style=for-the-badge&logo=google&logoColor=white)
+![Best Performer](https://img.shields.io/badge/Best%20Performer%20FY%202023--24-Bridgestone%20Group-gold?style=for-the-badge)
+![Hackathon Judge](https://img.shields.io/badge/Hackathon%20Judge-HackMIT%20%7C%20UCLA%20LA%20Hacks-blue?style=for-the-badge)
+![Research](https://img.shields.io/badge/Publications-IEEE%20%7C%20IJAET-green?style=for-the-badge&logo=ieee&logoColor=white)
 
 </div>
 
-- **Amazon AUTA AI Hackathon Winner — Summer 2026** — org-wide top winner among 800+ Amazon interns for a multi-model cost-aware router (3.2x cost reduction on production inference)
-- **Google Summer of Code 2026** — Selected contributor for Accord Project (The Linux Foundation), Idea #4: Hardening the APAP / MCP Server
-- **Best Performer FY 2023-24** — Bridgestone Group, recognized for enterprise AI delivery
-- **Hackathon Judge & Mentor** — HackMIT, UCLA LA Hacks
-- **Peer-Reviewed Publications** — 2 IEEE papers and 1 IJAET journal on ML for predictive maintenance and supply chain optimization; viXra preprint on automotive telematics
+- **Amazon AUTA AI Hackathon Winner - Summer 2026** - org-wide top winner among 800+ Amazon interns for a multi-model cost-aware router (3.2x cost reduction on production inference)
+- **Google Summer of Code 2026** - Selected contributor for Accord Project (The Linux Foundation), Idea #4: Hardening the APAP / MCP Server
+- **Best Performer FY 2023-24** - Bridgestone Group, recognized for enterprise AI delivery
+- **Hackathon Judge & Mentor** - HackMIT, UCLA LA Hacks
+- **Peer-Reviewed Publications** - 2 IEEE papers and 1 IJAET journal on ML for predictive maintenance and supply chain optimization; viXra preprint on automotive telematics
 
 ### Publications
 
-- **Predictive Maintenance in Automotive using Machine Learning** — IEEE Digital Xplore Library (Accepted, September 2024; ISSN 2169-3536; Manuscript Access-2024-36520). LSTM + SHAP interpretability on high-frequency CAN bus telematics; distributed training on Apache Spark, deployed on AWS Lambda for real-time failure prediction.
-- **Optimizing Supply Chain Management Through Data Science and AI: A Data-Driven Approach** — IJAET, Vol. 5 No. 4 (December 2023; ISSN 2633-4828). Hybrid descriptive + prescriptive analytics framework for supply chain optimization; predictive lead time, inventory turnover, and demand variability forecasting.
-- **Predictive Maintenance in Automotive Telematics using Machine Learning** — [viXra:2511.0028](https://vixra.org/pdf/2511.0028v1.pdf) (preprint). K-NN, Random Forest, SVM for truck load classification via CAN bus telematics; 95.97% accuracy.
+- **Predictive Maintenance in Automotive using Machine Learning** - IEEE Digital Xplore Library (Accepted, September 2024; ISSN 2169-3536; Manuscript Access-2024-36520). LSTM + SHAP interpretability on high-frequency CAN bus telematics; distributed training on Apache Spark, deployed on AWS Lambda for real-time failure prediction.
+- **Optimizing Supply Chain Management Through Data Science and AI: A Data-Driven Approach** - IJAET, Vol. 5 No. 4 (December 2023; ISSN 2633-4828). Hybrid descriptive + prescriptive analytics framework for supply chain optimization; predictive lead time, inventory turnover, and demand variability forecasting.
+- **Predictive Maintenance in Automotive Telematics using Machine Learning** - [viXra:2511.0028](https://vixra.org/pdf/2511.0028v1.pdf) (preprint). K-NN, Random Forest, SVM for truck load classification via CAN bus telematics; 95.97% accuracy.
 
 ---
 
