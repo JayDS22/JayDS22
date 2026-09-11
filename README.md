@@ -9,11 +9,31 @@
 I build enterprise-scale distributed systems, real-time inference pipelines, and production software. My work spans **24B+ records/day** at **sub-200ms latency**, with **$122.9M+ in quantifiable cost savings** through ML-driven optimization.
 
 <div align="center">
-
-[![AWS](https://img.shields.io/badge/AWS%20Redshift%20ML-SE%20(ML)%20Intern%20%7C%20Summer%202026-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=232F3E)](https://jayds22.github.io/Portfolio/post/chapter-11/)
-[![GSoC](https://img.shields.io/badge/Google%20Summer%20of%20Code%202026-Accord%20Project-34A853?style=for-the-badge&logo=google&logoColor=white&labelColor=4285F4)](https://summerofcode.withgoogle.com/programs/2026)
-[![Linux Foundation](https://img.shields.io/badge/The%20Linux%20Foundation-Accord%20Project-0094FF?style=for-the-badge&logo=linuxfoundation&logoColor=white&labelColor=003366)](https://www.linuxfoundation.org/)
-
+  <table>
+    <tr>
+      <td align="center" width="220">
+        <a href="https://jayds22.github.io/Portfolio/post/chapter-11/" title="AWS Redshift ML Case Study">
+          <img src="https://raw.githubusercontent.com/JayDS22/Portfolio/main/images/aws-logo.svg" height="60" alt="Amazon Web Services"/>
+        </a>
+        <br/>
+        <sub><b>Software Engineer (ML) Intern</b><br/>Redshift ML Team &middot; Summer 2026</sub>
+      </td>
+      <td align="center" width="220">
+        <a href="https://summerofcode.withgoogle.com/programs/2026" title="Google Summer of Code 2026">
+          <img src="https://cdn.simpleicons.org/google/4285F4" height="55" alt="Google Summer of Code"/>
+        </a>
+        <br/>
+        <sub><b>GSoC 2026 Contributor</b><br/>Accord Project &middot; Idea #4</sub>
+      </td>
+      <td align="center" width="220">
+        <a href="https://www.linuxfoundation.org/" title="The Linux Foundation">
+          <img src="https://cdn.simpleicons.org/linuxfoundation/003366" height="55" alt="The Linux Foundation"/>
+        </a>
+        <br/>
+        <sub><b>The Linux Foundation</b><br/>Accord Project Mentor Org</sub>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
