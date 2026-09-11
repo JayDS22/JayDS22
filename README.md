@@ -8,33 +8,6 @@
 
 I build enterprise-scale distributed systems, real-time inference pipelines, and production software. My work spans **24B+ records/day** at **sub-200ms latency**, with **$122.9M+ in quantifiable cost savings** through ML-driven optimization.
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="220">
-        <a href="https://jayds22.github.io/Portfolio/post/chapter-11/" title="AWS Redshift ML Case Study">
-          <img src="https://raw.githubusercontent.com/JayDS22/Portfolio/main/images/aws-logo.svg" height="60" alt="Amazon Web Services"/>
-        </a>
-        <br/>
-        <sub><b>Software Engineer (ML) Intern</b><br/>Redshift ML Team &middot; Summer 2026</sub>
-      </td>
-      <td align="center" width="220">
-        <a href="https://summerofcode.withgoogle.com/programs/2026" title="Google Summer of Code 2026">
-          <img src="https://cdn.simpleicons.org/google/4285F4" height="55" alt="Google Summer of Code"/>
-        </a>
-        <br/>
-        <sub><b>GSoC 2026 Contributor</b><br/>Accord Project &middot; Idea #4</sub>
-      </td>
-      <td align="center" width="220">
-        <a href="https://www.linuxfoundation.org/" title="The Linux Foundation">
-          <img src="https://cdn.simpleicons.org/linuxfoundation/003366" height="55" alt="The Linux Foundation"/>
-        </a>
-        <br/>
-        <sub><b>The Linux Foundation</b><br/>Accord Project Mentor Org</sub>
-      </td>
-    </tr>
-  </table>
-</div>
 
 <div align="center">
 
@@ -49,13 +22,44 @@ I build enterprise-scale distributed systems, real-time inference pipelines, and
 
 ### Currently
 
-**Graduate Research Assistant, University of Maryland** - Sep 2026-present
-HPC I/O research for [Open OnDemand](https://openondemand.org/) under **Dr. Alan Sussman**, in collaboration with the [Ohio Supercomputer Center](https://www.osc.edu/) and [Princeton Plasma Physics Lab (PPPL)](https://www.pppl.gov/).
-
-**Software Engineer (ML) Intern, AWS Redshift ML Team** - Summer 2026 (completed)
-Shipped a native vector search prototype into Redshift's query engine (500K-50M vectors, sub-100ms) and Bedrock ML integrations that cut LLM time-to-production from weeks to days. Won the org-wide **Amazon AUTA AI Hackathon** among 800+ Amazon interns for a multi-model cost-aware router (3.2x cheaper inference). [Case study →](https://jayds22.github.io/Portfolio/post/chapter-11/)
-
-**[GSoC 2026 Contributor](https://github.com/accordproject/apap)** - Hardening the [Accord Project Agreement Protocol](https://github.com/accordproject/apap) MCP server under the [The Linux Foundation](https://www.linuxfoundation.org/). Building the typed service layer, alternatives evaluation (MCP vs OpenAI function-calling vs LangGraph), and the 2026-07-28 spec migration. Mentors: Niall Roche, Dan Selman. [Project roadmap →](https://github.com/accordproject/apap/blob/main/docs/gsoc-2026-roadmap.md)
+<table>
+<tr>
+<td width="130" align="center" valign="middle">
+<a href="https://openondemand.org/" title="Open OnDemand">
+<img src="https://raw.githubusercontent.com/JayDS22/Portfolio/main/images/OpenOnDemand-Logo.jpeg" height="70" alt="Open OnDemand"/>
+</a>
+</td>
+<td valign="middle">
+<strong>Graduate Research Assistant, University of Maryland</strong> - Sep 2026-present<br/>
+HPC I/O research for <a href="https://openondemand.org/">Open OnDemand</a> under <strong>Dr. Alan Sussman</strong>, in collaboration with the <a href="https://www.osc.edu/">Ohio Supercomputer Center</a> and <a href="https://www.pppl.gov/">Princeton Plasma Physics Lab (PPPL)</a>.
+</td>
+</tr>
+<tr>
+<td width="130" align="center" valign="middle">
+<a href="https://jayds22.github.io/Portfolio/post/chapter-11/" title="AWS Redshift ML Case Study">
+<img src="https://raw.githubusercontent.com/JayDS22/Portfolio/main/images/aws-logo.svg" height="55" alt="Amazon Web Services"/>
+</a>
+</td>
+<td valign="middle">
+<strong>Software Engineer (ML) Intern, AWS Redshift ML Team</strong> - Summer 2026 (completed)<br/>
+Shipped a native vector search prototype into Redshift's query engine (500K-50M vectors, sub-100ms) and Bedrock ML integrations that cut LLM time-to-production from weeks to days. Won the org-wide <strong>Amazon AUTA AI Hackathon</strong> among 800+ Amazon interns for a multi-model cost-aware router (3.2x cheaper inference). <a href="https://jayds22.github.io/Portfolio/post/chapter-11/">Case study</a>.
+</td>
+</tr>
+<tr>
+<td width="130" align="center" valign="middle">
+<a href="https://summerofcode.withgoogle.com/programs/2026" title="Google Summer of Code 2026">
+<img src="https://cdn.simpleicons.org/google/4285F4" height="40" alt="Google Summer of Code"/>
+</a>
+<br/><br/>
+<a href="https://www.linuxfoundation.org/" title="The Linux Foundation">
+<img src="https://cdn.simpleicons.org/linuxfoundation/003366" height="25" alt="The Linux Foundation"/>
+</a>
+</td>
+<td valign="middle">
+<strong>GSoC 2026 Contributor</strong> - Hardening the <a href="https://github.com/accordproject/apap">Accord Project Agreement Protocol</a> MCP server under <a href="https://www.linuxfoundation.org/">The Linux Foundation</a>. Building the typed service layer, alternatives evaluation (MCP vs OpenAI function-calling vs LangGraph), and the 2026-07-28 spec migration. Mentors: Niall Roche, Dan Selman. <a href="https://github.com/accordproject/apap/blob/main/docs/gsoc-2026-roadmap.md">Project roadmap</a>.
+</td>
+</tr>
+</table>
 
 ---
 
