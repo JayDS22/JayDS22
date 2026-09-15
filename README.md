@@ -36,7 +36,7 @@ HPC I/O research for [Open OnDemand](https://openondemand.org/) under **Dr. Alan
 **Software Engineer (ML) Intern, AWS Redshift ML Team** - Summer 2026 (completed)
 Shipped a native vector search prototype into Redshift's query engine (500K-50M vectors, sub-100ms) and Bedrock ML integrations that cut LLM time-to-production from weeks to days. Won the org-wide **Amazon AUTA AI Hackathon** among 800+ Amazon interns for a multi-model cost-aware router (3.2x cheaper inference). [Case study →](https://jayds22.github.io/Portfolio/post/chapter-11/)
 
-**[GSoC 2026 Contributor](https://github.com/accordproject/apap)** - Hardening the [Accord Project Agreement Protocol](https://github.com/accordproject/apap) MCP server under [The Linux Foundation](https://www.linuxfoundation.org/). Building the typed service layer, alternatives evaluation (MCP vs OpenAI function-calling vs LangGraph), and the 2026-07-28 spec migration. Mentors: Niall Roche, Dan Selman. [Project roadmap →](https://github.com/accordproject/apap/blob/main/docs/gsoc-2026-roadmap.md)
+**[GSoC 2026 Contributor](https://github.com/accordproject/apap)** - Hardened the [Accord Project Agreement Protocol](https://github.com/accordproject/apap) MCP server under [The Linux Foundation](https://www.linuxfoundation.org/). Shipped the typed service-layer port, MCP SDK 2.0 migration, PG18 + RLS smoke, paged MCP resource URIs, and the A2A wrapper design of record. Mentors: Niall Roche, Dan Selman. [Blog write-up →](https://accordproject.org/news/gsoc-2026-rewiring-apap-for-agents/)
 
 ---
 
@@ -45,7 +45,7 @@ Shipped a native vector search prototype into Redshift's query engine (500K-50M 
 | Domain | Project | Highlights |
 |--------|---------|------------|
 | AWS / Redshift ML | [AWS Redshift Vector Search + Bedrock ML](https://jayds22.github.io/Portfolio/post/chapter-11/) | Native semantic search in Redshift query engine (500K-50M vectors, sub-100ms); Bedrock ML integrations cut LLM time-to-production weeks→days. **Amazon AUTA Hackathon Winner** (org-wide, 800+ interns, 3.2x cost reduction). |
-| Open Source / GSoC '26 | [Accord Project APAP/MCP](https://github.com/accordproject/apap) | Hardening the MCP server: typed errors, alternatives evaluation, 2026-07-28 spec migration. [POC](https://github.com/JayDS22/apap-mcp-poc) · [Roadmap](https://github.com/accordproject/apap/blob/main/docs/gsoc-2026-roadmap.md) |
+| Open Source / GSoC '26 | [Accord Project APAP/MCP](https://github.com/accordproject/apap) | Hardened the MCP server: typed service layer, MCP SDK 2.0 migration, PG18 support, A2A wrapper design. [POC](https://github.com/JayDS22/apap-mcp-poc) · [Blog](https://accordproject.org/news/gsoc-2026-rewiring-apap-for-agents/) |
 | GenAI / LLM | [Production LLM Serving Framework](https://github.com/JayDS22/Production-LLM-Serving-Optimization-Framework) | vLLM continuous batching, **12.3K req/sec**, 42ms P50, INT4 quantization, 70% memory savings |
 | Multi-Agent AI | [ConstellationAI Multi-Agentic RAG](https://github.com/JayDS22/ConstellationAI-Multi-Agentic-RAG) | LangGraph orchestration, semantic caching, real-time token optimization, GPU monitoring |
 | Data Engineering | [Enterprise Data Warehouse](https://github.com/JayDS22/Enterprise-Data-Warehouse) | **24B records**, <60s latency, 100K records/sec, 32 fact tables, 128 dimensions |
